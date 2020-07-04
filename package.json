@@ -1,0 +1,23 @@
+{
+  "name": "fooddel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitaMed/Course-Work.git"
+  },
+  "author": "Vita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitaMed/Course-Work/issues"
+  },
+  "homepage": "https://github.com/VitaMed/Course-Work#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "normalize.css": "^8.0.1"
+  }
+}
